@@ -4,7 +4,7 @@
 
 If you need help with the app, please use one of these options:
 
-- **Email:** `support@your-email.com`
+- **Email:** `graphixgis@gmail.com`
 - **App name:** GraphixGIS
 - **Platform:** iOS
 
