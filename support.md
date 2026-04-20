@@ -2,7 +2,7 @@
 
 If you need help with the app, please use one of these options:
 
-- **Email:** `graphixgis@gmail.com`
+- **Email:** `contact@kryptonlabs.studio`
 - **App name:** Krypton Labs
 
 ## What to include
