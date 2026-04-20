@@ -2,7 +2,7 @@
 
 Last updated: April 2026
 
-This Privacy Policy describes how the **GraphixGIS** app collects, uses, and protects your information.
+This Privacy Policy describes how the app collects, uses, and protects your information.
 
 ## Information We Collect
 
