@@ -1,12 +1,9 @@
 # Support
 
-## GraphixGIS Support
-
 If you need help with the app, please use one of these options:
 
 - **Email:** `graphixgis@gmail.com`
-- **App name:** GraphixGIS
-- **Platform:** iOS
+- **App name:** Krypton Labs
 
 ## What to include
 
